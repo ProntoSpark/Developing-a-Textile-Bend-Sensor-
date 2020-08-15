@@ -21,6 +21,7 @@ You see three folders :
  #### 1. Current Status: you will find ‘Gantt Chart’ and ‘Current status’ files in this folder.
  #### 2. List of Material: you will find the ‘list of material’ file in this folder.
  #### 3. Resources: you will find three sub-folders here.
- ##### a. Project Overview: it contains ‘pdf file of ‘Project Overview ppt’ and video of the same presentation.
- ##### b. Prototypes: it contains ‘Low_Fi_Prototype_design’ which shows the internal design of the sensor.
- ##### c. Sketches: it contains sketches that show example applications, parts of the sensor and their assembly design.
+ ##### a. Fabrication Images: you will find images which were taken during intermediate stages of making a sensor.
+ ##### b. Project Overview: it contains ‘pdf file of ‘Project Overview ppt’ and video of the same presentation.
+ ##### c. Prototypes: it contains ‘Low_Fi_Prototype_design’ which shows the internal design of the sensor.
+ ##### d. Sketches: it contains sketches that show example applications, parts of the sensor and their assembly design.
